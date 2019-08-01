@@ -1,2 +1,3 @@
-# mysite
-mysite django on python3.6.8
+#Git 사용방법
+=============
+
